@@ -44,8 +44,7 @@ uvicorn main:app --reload
 ```
 
 ## Demo Video 🎥
-
-
+![Demo GIF](https://gateway.lighthouse.storage/ipfs/bafybeibvz3kox7uck7sb6xhbyc7xhc3mipfm2yltl3fdezuu3iyocdcgim)
 ## Developed By 💡
 ![Temprl Business Logo](https://cdn.discordapp.com/attachments/1318631605702623322/1334938192897642577/temprl_business_pro.png?ex=67ab8893&is=67aa3713&hm=896329e5612c32d0b75dca2f4cddeb8675ded27e422a41236e1e010eabbb699f&)
 
